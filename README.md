@@ -10,6 +10,13 @@
 
 
  [TP2]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP2/TP2_E.ipynb
+ 
+  [TP3][TP3]       
+
+
+
+ [TP3]: https://github.com/mohameedboud/TP_Analyse_Num-rique/tree/main/Projet%20TP3
+
 
 
 
