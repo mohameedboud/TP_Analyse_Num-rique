@@ -5,8 +5,15 @@ Ce répertoire contient les différents TP d'analyse numérique
 - [Interpolation polynomiale TP2] 
 - [intégration numérique TP3] 
 
+## Requirements
 
+* [ANACONDA For windows][ANACONDA] 
+* [Jupyter][Jup]
+* [Googlecollabs][clb]
 
+[ANACONDA]: https://www.anaconda.com/products/individual
+[Jup]: https://jupyter.org/
+[clb]:https://colab.research.google.com/notebooks/intro.ipynb
 
     
  [Résolution d'une équation non linéaire TP1]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP1/TP1_E.ipynb
