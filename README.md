@@ -1,9 +1,9 @@
 # TP_Analyse_Numerique
 
 Ce répertoire contient les différents TP d'analyse numérique 
-- [Résolution d'une équation non linéaire]  
-- [Interpolation polynomiale] 
-- [intégration numérique] 
+- [Résolution d'une équation non linéaire TP1]  
+- [Interpolation polynomiale TP2] 
+- [intégration numérique TP3] 
 
 
 
