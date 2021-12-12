@@ -9,11 +9,11 @@ Ce répertoire contient les différents TP d'analyse numérique
 
 
     
- [Résolution d'une équation non linéaire]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP1/TP1_E.ipynb
+ [Résolution d'une équation non linéaire TP1]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP1/TP1_E.ipynb
 
- [Interpolation polynomiale]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP2/TP2_E.ipynb
+ [Interpolation polynomiale TP2]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP2/TP2_E.ipynb
         
- [intégration numérique]: https://github.com/mohameedboud/TP_Analyse_Num-rique/tree/main/Projet%20TP3
+ [intégration numérique TP3]: https://github.com/mohameedboud/TP_Analyse_Num-rique/tree/main/Projet%20TP3
 
 
 
