@@ -9,7 +9,7 @@ Ce répertoire contient les différents TP d'analyse numérique
 
 
     
- [ésolution d'une équation non linéaire]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP1/TP1_E.ipynb
+ [Résolution d'une équation non linéaire]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP1/TP1_E.ipynb
 
  [TP2]: https://github.com/mohameedboud/TP_Analyse_Num-rique/blob/main/TP2/TP2_E.ipynb
         
