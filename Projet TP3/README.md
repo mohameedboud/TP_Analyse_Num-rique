@@ -15,8 +15,9 @@ ou meme impossible, car il n'existe pas d'expression analytique d'une primitive 
 L'intégration numérique est un chapitre important de l'analyse numérique et un outil indispensable en physique numérique. 
 On intègre numériquement dans deux cas principaux :
 
-               * on ne peut pas intégrer analytiquement,
-               *l'intégrande est fourni non pas sous la forme d'une fonction mais de tableaux de mesures, cas d'ailleurs le plus fréquent dans la vraie vie.
+               * On ne peut pas intégrer analytiquement,
+               * L'intégrande est fourni non pas sous la forme d'une fonction mais de tableaux de mesures, 
+                cas d'ailleurs le plus fréquent dans la vraie vie.
 
 
 
