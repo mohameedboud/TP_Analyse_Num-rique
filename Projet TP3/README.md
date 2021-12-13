@@ -29,10 +29,13 @@ Les méthodes numériques d'intégration d'une fonction sont nombreuses et les t
 - ### Formule de Simpson
 - En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d'une intégrale.
 ![Alt Text](simpson.png)
+- ### Formule de quadratures
+- On appelle formule de quadrature une expression linéaire dont l’évaluation fournit une valeur approchée de l’intégrale sur un morceau typique (l’intervalle [0 ; 1] par exemple). Une transformation affine permet de transposer la formule sur un morceau particulier.
 
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/num_integ/main?filepath=widget_final.ipynb)
 
 - # Conclusion
 ![Alt Text](demo.gif)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/num_integ/main?filepath=widget_final.ipynb)
+
