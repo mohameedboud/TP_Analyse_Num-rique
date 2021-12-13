@@ -27,7 +27,7 @@ Les méthodes numériques d'intégration d'une fonction sont nombreuses et les t
 ![Alt Text](Trapeze.gif)
 - ### Formule de Simpson
 - En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d'une intégrale.
-![Alt Text](simpson.png)
+<center>![Alt Text](simpson.png)</center>
 
 
 
