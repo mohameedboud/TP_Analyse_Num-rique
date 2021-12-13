@@ -1,9 +1,9 @@
 # TP3: Intégration numérique 
 - [Introduction](#Introduction)
 - [Les methodes simples d'intégration numérique](#Les_methodes_simples_d'intégration_numérique)
-     -[Formule des trapèzes](##Formule des trapèzes)
-     -[Formule de Simpson](##Formule de Simpson) 
-     -[Formule de quadratures](##Formule de quadratures]
+     -[Formule des trapèzes](##Formule_des_trapèzes)
+     -[Formule de Simpson](##Formule_de_Simpson) 
+     -[Formule de quadratures](##Formule_de_quadratures]
      
 - ##Introduction 
 L'integration est un des problemes les plus importants que l'on rencontre en analyse. En effet, on
