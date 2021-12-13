@@ -5,7 +5,7 @@
      -[Formule de Simpson](##Formule de Simpson) 
      -[Formule de quadratures](##Formule de quadratures]
      
--##Introduction 
+- ##Introduction 
 L'integration est un des problemes les plus importants que l'on rencontre en analyse. En effet, on
 rencontre souvent des integrales dont le calcul par des methodes analytiques est tres complique
 ou meme impossible, car il n'existe pas d'expression analytique d'une primitive de la fonction
