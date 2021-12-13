@@ -23,7 +23,7 @@ On intègre numériquement dans deux cas principaux :
 Les méthodes numériques d'intégration d'une fonction sont nombreuses et les techniques très diverses.
 
 - ### Formule des trapèzes
-- ![Alt Text](demo.gif)
+- ![Alt Text](Trapeze.gif)
 
 
 
