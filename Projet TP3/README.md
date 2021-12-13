@@ -22,15 +22,9 @@ On intègre numériquement dans deux cas principaux :
             
 Les méthodes numériques d'intégration d'une fonction sont nombreuses et les techniques très diverses.
 
-- ###Formule des trapézes
+- ###Formule des trapèzes
 - C'est une formule a 2 points. La valeur approchee de I par la methode des trapezes est
-I =
-Z b
-a
-f(x)dx '
-(b 􀀀 a)
-2
-[f(a) + f(b)]
+
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/num_integ/main?filepath=widget_final.ipynb)
