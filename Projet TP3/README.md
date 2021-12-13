@@ -1,6 +1,6 @@
 # TP3: Intégration numérique 
 - [Introduction](#Introduction)
-- [Les methodes simples d'intégration numérique](#Les methodes simples d'intégration numérique)
+- [Les methodes simples d'intégration numérique](#Les_methodes_simples_d'intégration_numérique)
      -[Formule des trapèzes](##Formule des trapèzes)
      -[Formule de Simpson](##Formule de Simpson) 
      -[Formule de quadratures](##Formule de quadratures]
