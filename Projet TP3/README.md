@@ -4,6 +4,7 @@
      - [Formule des trapèzes](##Formule_des_trapèzes)
      - [Formule de Simpson](##Formule_de_Simpson) 
      - [Formule de quadratures](##Formule_de_quadratures)
+- [Conclusion](#Conclusion)
      
 - # Introduction 
 L'integration est un des problemes les plus importants que l'on rencontre en analyse. En effet, on
@@ -27,11 +28,11 @@ Les méthodes numériques d'intégration d'une fonction sont nombreuses et les t
 ![Alt Text](Trapeze.gif)
 - ### Formule de Simpson
 - En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d'une intégrale.
-<center>![Alt Text](simpson.png)</center>
+![Alt Text](simpson.png)
 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/num_integ/main?filepath=widget_final.ipynb)
 
-
+- # Conclusion
 ![Alt Text](demo.gif)
